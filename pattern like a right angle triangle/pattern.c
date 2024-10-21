@@ -10,7 +10,7 @@ The pattern like :
 #include<stdio.h>
 int main()
 {
-    int n;
+    int n; //int k=1;
     printf("Enter the value of n :");
     scanf("%d",&n);
 
@@ -21,6 +21,7 @@ int main()
             printf("*");
             // printf("%d",i);
             // printf("%d",j);
+            // printf("%d ", k++);
         }
         printf("\n");
     }
