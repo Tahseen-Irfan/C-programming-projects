@@ -1,3 +1,8 @@
+/* Simple Calculator
+Description: Build a basic calculator that can perform simple arithmetic operations such as addition, subtraction, multiplication, and division.
+Concepts Used: Input/output, conditionals (if/else), functions.
+Challenge: Add error checking for division by zero.*/
+
 #include<stdio.h>
 
 float add( float num1 , float num2 );
